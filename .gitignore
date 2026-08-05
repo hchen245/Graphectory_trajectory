@@ -1,0 +1,6 @@
+data/
+demo/
+figures/
+__pycache__/
+*.pyc
+*.pdf
